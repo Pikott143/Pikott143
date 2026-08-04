@@ -14,7 +14,6 @@ Aspiring Full-Stack Developer | UI/UX Enthusiast | Problem Solver 🚀
 - 🤝 I’m open to collaborating on web development and open-source projects
 - 🎯 My goal is to continuously improve my skills and build innovative digital solutions
 - 📫 You can reach me at: Theunseenmaiden@gmail.com
-- 🎨 UI/UX Enthusiast
 - 🎌 Anime, Kdrama & Manga Fan
 
 ---
