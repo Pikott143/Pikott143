@@ -1,7 +1,7 @@
 Hi there! 👋
 
 <h3 align="center">
-Aspiring Full-Stack Developer | UI/UX Enthusiast | Problem Solver 🚀
+Aspiring Full-Stack Developer | UI/UX Enthusiast | Problematic Solver 🚀
 </h3>
 
 <p align="center">
