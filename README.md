@@ -1,11 +1,11 @@
-<h1 align="center">Hi there! 👋</h1>
+Hi there! 👋
 
 <h3 align="center">
 Aspiring Full-Stack Developer | UI/UX Enthusiast | Problem Solver 🚀
 </h3>
 
 <p align="center">
-  <img src="cat.png" alt="Coding" width="500"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzAxMzZnc283ZnhmcDdvamI4eHpxYXUwOXAwazR5cTVxYmFpOGRwOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding GIF" width="500"/>
 </p>
 
 💻 BSIT Graduate
