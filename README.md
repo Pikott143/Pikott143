@@ -5,7 +5,7 @@ Aspiring Full-Stack Developer | UI/UX Enthusiast | Problem Solver 🚀
 </h3>
 
 <p align="center">
-  <img src="https://i.pinimg.com/1200x/c5/dd/c4/c5ddc4452ac52cad34a97439d220ed94.jpg" alt="Coding" width="500"/>
+  <img src="cat.png" alt="Coding" width="500"/>
 </p>
 
 💻 BSIT Graduate
