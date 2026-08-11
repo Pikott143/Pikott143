@@ -5,7 +5,7 @@ Aspiring Full-Stack Developer | UI/UX Enthusiast | Problematic Solver 🚀
 </h3>
 
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWQ5bjVhdjM5MnNoejMxazN1OGdjOWV5c3pmMzdrZmZibzZzd3dsZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMcB8XospGZO8UQq87/giphy.gif" alt="Coding GIF" width="700"/>
+  <img src="[https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWQ5bjVhdjM5MnNoejMxazN1OGdjOWV5c3pmMzdrZmZibzZzd3dsZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMcB8XospGZO8UQq87/giphy.gif](https://i.pinimg.com/originals/44/94/40/4494406b0e685995eaeb744e1ff0919c.gif)" alt="Coding GIF" width="700"/>
 </p>
 
 ---
